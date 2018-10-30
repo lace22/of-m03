@@ -4,8 +4,13 @@ www.tinyurl.com/M03-form-6NOV
 ## 1. Veradadero/Falso (0/10)
 1. La formula **average** sirve para hacer el promedio
 	- Falso 
-2. Está bien escrita esta fórmula? ![alt text](img/1-2.png "FDSFS")
+2. Está bien escrita esta fórmula? 
+
+![alt text](img/1-2.png "FDSFS")
+
 	- Verdadero
+
+
 3. La función de formato condicional dará un resultado dependiendo del valor de otra celda
 	- Falso
 4. Google Spreadsheet guarda automaticament las hojas de calculo en formato XLSX
