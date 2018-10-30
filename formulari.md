@@ -56,4 +56,4 @@ www.tinyurl.com/M03-form-6NOV
  2. Como sumarias la fila 2
  3. Describe el formato condicional
  4. Como encontrarías el valor mas pequeño de la fila 2
- 5. Que tipo de aplicación es Google Spreadsheet?
+ 5. Que tipo de aplicación es Google Spreadsheet?Pp
