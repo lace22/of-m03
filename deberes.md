@@ -1,4 +1,4 @@
-# Miercoles
+# xMiercoles
 - 20/25 preguntes
 - 10 de veritat o fals
 - 5 de resposta multiple (4 opcins)
